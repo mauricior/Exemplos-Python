@@ -1,0 +1,39 @@
+1506640167366	geckodriver	INFO	geckodriver 0.19.0
+1506640167374	geckodriver	INFO	Listening on 127.0.0.1:37043
+1506640168523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XOe2MWB9hMZ7"
+1506640169148	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+1506640170075	Marionette	INFO	Enabled via --marionette
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "webcal"
+1506640177809	Marionette	INFO	Listening on port 44899
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506640177901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506640178014	Marionette	DEBUG	loaded listener.js
+1506640178093	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506640178145	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506640178152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506640178153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506640178231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//https//panda.ime.usp.br/pensepy/static/pensepy/10-Arquivos/files.html&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20https."
+1506640195884	geckodriver	INFO	geckodriver 0.19.0
+1506640195892	geckodriver	INFO	Listening on 127.0.0.1:48519
+1506640197007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fMqDdJJUDvEF"
+1506640197629	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+1506640198431	Marionette	INFO	Enabled via --marionette
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "webcal"
+1506640201584	Marionette	INFO	Listening on port 45919
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506640201655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506640201760	Marionette	DEBUG	loaded listener.js
+1506640201817	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506640201967	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506640201968	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://panda.ime.usp.br/pensepy/static/pensepy/_static/codelens/v3/js/jquery.jsPlumb-1.3.10-all-min.js, line 1: unreachable code after return statement
+1506640203529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://panda.ime.usp.br/pensepy/static/pensepy/10-Arquivos/files.html"
+1506640204918	Marionette	DEBUG	Received DOM event "pageshow" for "https://panda.ime.usp.br/pensepy/static/pensepy/10-Arquivos/files.html"
